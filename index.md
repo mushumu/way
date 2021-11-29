@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 意识可以永生吗？
 
-You can use the [editor on GitHub](https://github.com/mushumu/way.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    首先，明确一个定义：存在，物质最本质的组成单位是存在的，不会消失、不会产生，会跟其他存在相互作用，物质世界有且只有“存在的相互作用”，这种相互作用可以被其他相互作用破坏，体现在宏观层面就是可变的存在组合形式，比如会变成水蒸气的水。有句话叫“万事皆有因”，那么是什么创造了存在呢？答案是没有什么，存在不会新产生也不会消失，这句话到这里失效，因为这句话只是对“存在的特定相互作用”产生另一种“确定相互作用”的现象的总结，并没有把存在的本质算在内。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    意识的感受，其实就是意识对其他存在（宏观上应该是类似电信号）与意识相互作用的觉察，由于可以与存在相互作用，所以意识是存在的。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mushumu/way.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    那么人类是否能让意识永生呢？其实这个问题的准确描述应该是，意识加上记忆是否可以被人为操控地从一个临时介质转移到另一个临时介质（这里的介质是存在的组合，所以不可能是绝对永久的。），或者干脆人为创造意识？意识是存在的，所以不可以新产生，也就不能被创造。转移的话，理论上是可行的，但是需要意识和记忆一起被转移才有意义，比如只有没记忆的“我”，那“我”并不知道自己永生。只有记忆，那就跟“我”没有任何关系了，比如，人类可以通过“我”的记忆创造出一个从外界看起来行为决策跟我完全一样的机器人，那这个机器人也只是看起来像“我”而已，本质上没有任何关系，因为“我”并不与机器人共享感受或者决策过程，而意识最本质的活动就是感受（输入）和决策（输出）。
